@@ -6,19 +6,19 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingmuya" alt="qingmuya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qingmuy" alt="qingmuy" /></a> </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qingmuya&show_icons=true&locale=en&layout=compact" alt="qingmuya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qingmuy&show_icons=true&locale=en&layout=compact" alt="qingmuy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingmuya&show_icons=true&locale=es" alt="qingmuya" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qingmuya&" alt="qingmuya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingmuy&show_icons=true&locale=es" alt="qingmuy" /></p>
 
 
 
-![](https://count.getloli.com/get/@qingmuya.github.readme)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qingmuy&" alt="qingmuy" /></p>
+
+
+
+![](https://count.getloli.com/get/@qingmuy.github.readme)
 
